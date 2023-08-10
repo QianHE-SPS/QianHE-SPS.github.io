@@ -189,9 +189,11 @@ div#footer a {
 }
 
 div#footer-text {
-	float: left;
-	padding-bottom: 8px;
+    float: left;
+    padding-bottom: 8px;
+    color: #333; /* 更改为您想要的颜色值，例如：#333 表示深灰色 */
 }
+
 
 ul, ol, dl {
 	margin-top: 0.2em;
