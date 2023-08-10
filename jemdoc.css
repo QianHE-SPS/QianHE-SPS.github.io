@@ -181,17 +181,17 @@ div#footer {
     border-top: 1px solid #c0c0c0;
     padding-top: 0.1em;
     margin-top: 4.0em;
-    color: #333;
+    color: #AAAAAA;
 }
 
 div#footer a {
-    color: #333;
+    color: #FF5555;
 }
 
 div#footer-text {
     float: left;
     padding-bottom: 8px;
-    color: #333; /* 更改为您想要的颜色值，例如：#333 表示深灰色 */
+    color: #AAAAAA; /* 更改为您想要的颜色值，例如：#333 表示深灰色 */
 }
 
 
