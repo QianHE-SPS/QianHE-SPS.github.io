@@ -375,3 +375,17 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+.table-container {
+    display: flex;
+    align-items: flex-start;
+  }
+
+.text-section {
+width: 670px;
+}
+
+.image-section {
+margin-left: 20px;
+align-self: flex-start;
+}
