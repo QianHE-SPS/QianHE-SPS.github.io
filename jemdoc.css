@@ -379,6 +379,7 @@ table.imgtable, table.imgtable td {
 .table-container {
     display: flex;
     align-items: flex-start;
+    margin-top: 20px; /* 调整此处的数值来上移内容 */
   }
 
 .text-section {
@@ -389,3 +390,5 @@ width: 670px;
 margin-left: 20px;
 align-self: flex-start;
 }
+
+
